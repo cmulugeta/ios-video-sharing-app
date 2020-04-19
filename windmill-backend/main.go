@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/joho/godotenv"
-	"github.com/cmulugeta/ios-video-sharing-app-backend/app"
+	"github.com/cmulugeta/ios-video-sharing-app/windmill-backend/app"
 	"log"
 )
 
