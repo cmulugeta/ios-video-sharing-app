@@ -1,4 +1,4 @@
-package services
+package request
 
 import (
 	"github.com/cmulugeta/ios-video-sharing-app/windmill-backend/app/models"
