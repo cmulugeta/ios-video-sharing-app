@@ -46,8 +46,6 @@ func GetConfig() *Config {
 
 ```
 
-
-
 ## License
 
-windmill is available under the MIT license, see the [LICENSE]() file for more information.
+windmill is available under the MIT license, see the [LICENSE](https://github.com/cmulugeta/ios-video-sharing-app/blob/master/LICENSE) file for more information.
