@@ -59,6 +59,12 @@ func GetConfig() *Config {
 go run main.go
 ```
 
+## Project
+
+- Have an idea for a feature? Open an [issue](https://github.com/cmulugeta/ios-video-sharing-app/issues).
+- Found a bug? Open an [issue](https://github.com/cmulugeta/ios-video-sharing-app/issues).
+- If you want to contribute to the project, submit a pull request.
+
 ## Libraries Used
 
 ### Swift
